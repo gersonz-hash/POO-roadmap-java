@@ -11,7 +11,7 @@ public class Empleado extends Persona{
 	@Override
 	public void mostrar() {
 		super.mostrar();
-		System.out.println("Cargo: "+cargo);
+		System.out.println("\nCargo: "+cargo);
 		
 	}
 	
